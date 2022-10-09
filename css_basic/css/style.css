@@ -1,6 +1,6 @@
 body {
   /* change background color */
-  background-color: blue;
+  background-color: rgb(243, 245, 189);
   /* change font */
   /* change margin */
 }
@@ -12,4 +12,5 @@ body {
 /* add padding */
 /* add margin */
 /* style the ordered list */
+/* add a class to a couple of HTML elements and apply styling to those */
 /* create an id to an HTML element and apply styling only to it  */
